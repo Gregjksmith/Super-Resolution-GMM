@@ -8,10 +8,10 @@ from [1]:
 
 # Results
 
-![BCimage](https://github.com/Gregjksmith/Super-Resolution-GMM/blob/master/images/BicubicComparison.tiff?raw=true)
+![BCimage](https://github.com/Gregjksmith/Super-Resolution-GMM/blob/master/images/BicubicComparison.png?raw=true)
 
 
-![SRimage](https://github.com/Gregjksmith/Super-Resolution-GMM/blob/master/images/SuperResolution%20K10%20P4%20R1e-006.tiff?raw=true)
+![SRimage](https://github.com/Gregjksmith/Super-Resolution-GMM/blob/master/images/SuperResolution%20K10%20P4%20R1e-006.png?raw=true)
 
 | Methor			    	 | PSNR (dB)     |
 |:--------------------------:|:-------------:|
